@@ -1,5 +1,5 @@
 # SenML - Sentiment Analysis with Machine Learning  
-A simple machine learning-based sentiment analysis tool using **Logistic Regression** and **TF-IDF Vectorization**.
+A simple machine learning-based sentiment analysis tool using **Logistic Regression** and **TF-IDF Vectorization** with overall 86% accuracy result.
 
 ## Dataset link 
 ### "https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews?resource=download"
